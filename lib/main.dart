@@ -30,9 +30,9 @@ void main() async {
   }
 
   print("\n==== Classes ====");
-  var personne1 = Personne("oumou", 30);
+  var personne1 = Personne("samba", 30);
   print("Nom : ${personne1.nom}, Âge : ${personne1.age}");
-  var etudiant1 = Etudiant("sawo", 20, "DFE");
+  var etudiant1 = Etudiant("alioune", 23, "DFE");
   print("Nom : ${etudiant1.nom}, Âge : ${etudiant1.age}, Classe : ${etudiant1.classe}");
 
   print("\n==== Asynchrone ====");

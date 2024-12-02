@@ -6,10 +6,10 @@ void manipulerListes() {
 
 void manipulerMaps() {
   Map<String, dynamic> etudiant = {
-    "nom": "sawo",
-    "age": 21,
+    "nom": "ndao",
+    "age": 23,
     "classe": "DFE",
   };
-  etudiant["note"] = 85;
+  etudiant["note"] = 86;
   print(etudiant);
 }
